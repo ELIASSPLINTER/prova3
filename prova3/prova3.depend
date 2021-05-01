@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619830655 source:c:\users\ribei\onedrive\documentos\prova3\main.cpp
+	<iostream>
+	<iostream>
+	<algorithm>
+	<vector>
+
